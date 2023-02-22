@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mediatek Company
+- 🔭 I’m currently working on Mediatek
 - 🌱 I’m currently learning some interesting techniques
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
